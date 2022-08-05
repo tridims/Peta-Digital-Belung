@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220722</CreaDate><CreaTime>10224200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20210525" Time="121544">DeleteField "Batas Wilayah Kelurahan Desa" SHAPE.AREA;SHAPE.LEN</Process></lineage></DataProperties></Esri></metadata>
